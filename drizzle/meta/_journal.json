@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1721275939679,
+      "tag": "0000_tidy_boomerang",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1721276380270,
+      "tag": "0001_closed_zarda",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1722137311778,
+      "tag": "0002_past_magik",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1722467245717,
+      "tag": "0003_special_victor_mancha",
+      "breakpoints": true
+    }
+  ]
+}
