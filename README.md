@@ -43,6 +43,8 @@ Key Features
 8. **Tanstack React Query**: React data-fetching library.
 9. **Vercel**: Platform for deployment.
 
+# Screenshots to showcase the program 
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
