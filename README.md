@@ -32,7 +32,7 @@ Key Features
 15. **Deployed on Vercel**: Deploy and scale effortlessly.
 
 
-Technologies Used
+# Technologies Used
 1. **Clerk**: User authentication service.
 2. **Hono**: Minimalist API framework.
 3. **Drizzle ORM**: Database interaction ORM.
