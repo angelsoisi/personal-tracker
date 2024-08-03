@@ -1,4 +1,4 @@
-	Finance SaaS Platform
+#Finance SaaS Platform
 
 
 Welcome to the Finance SaaS Platform project! you´ll see a table content explaining different aspects of the proyect :) 
