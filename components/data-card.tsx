@@ -104,7 +104,6 @@ export const DataCard = ({
                     percentageChange < 0 && "text-rose-500"
 
                 )}>
-                    {formatPercentage(percentageChange, {addPrefix:true})} from last time
                 </p>
             </CardContent>
         </Card>
